@@ -37,7 +37,7 @@ namespace Final_Project_Assignment_643450079_3
                 {
                     string allDATARAW = readAllLine[i];
                     string[] allDATASplited = allDATARAW.Split(',');
-                    this.dataGridView1.Rows.Add(allDATASplited[0], allDATASplited[1], allDATASplited[2], allDATASplited[3], allDATASplited[4], allDATASplited[5]);
+                    this.dataGridView1.Rows.Add(allDATASplited[0], allDATASplited[1], allDATASplited[2], allDATASplited[3], allDATASplited[4]);
                 }
             }
         }

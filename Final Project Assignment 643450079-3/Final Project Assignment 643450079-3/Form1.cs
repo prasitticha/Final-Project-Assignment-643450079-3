@@ -24,7 +24,7 @@ namespace Final_Project_Assignment_643450079_3
             string User = textBox_User.Text;
             string Password = textBox_Password.Text;
 
-            if (User == "1" & Password == "2") //(User == "Admin001" & Password == "LoginUser001")
+            if (User == "1" & Password == "2")
             {
                 form2.Show();
                 this.Hide();

@@ -91,6 +91,7 @@
             this.textBox_Password.Name = "textBox_Password";
             this.textBox_Password.Size = new System.Drawing.Size(191, 20);
             this.textBox_Password.TabIndex = 2;
+            this.textBox_Password.Tag = "";
             // 
             // pictureBox
             // 
